@@ -1,0 +1,3 @@
+The High Frequency FIX Parser library is an implementation of Financial Information Exchange protocol version 4.2 intended for use by developers of high-frequency financial software. The purpose of the library is to do fast, efficient encoding and decoding of FIX 4.2 in place, at the location of the I/O buffer, without using intermediate objects or allocating on the free store.
+
+This Google Project page is a placeholder in case the High Frequency FIX Parser library is ever uploaded to the repository for public code contributions. The full source code and documentation is available at the [High Frequency FIX Home Page](http://www.t3tradinggroup.com/hffix) online and in downloadable package form.
